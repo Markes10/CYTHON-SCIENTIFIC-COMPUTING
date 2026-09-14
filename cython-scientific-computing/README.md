@@ -1,4 +1,4 @@
-# 16 - High-Performance Scientific Computing Engine (Cython)
+# High-Performance Scientific Computing Engine (Cython)
 
 ## Executive Overview
 A C-accelerated scientific computing engine written in **Cython**. It implements high-performance **Compressed Sparse Row (CSR)** Sparse Matrix-Vector Multiplication (SpMV) and 4th-order **Runge-Kutta (RK4)** numerical integration for non-linear chaotic dynamical systems (Lorenz Attractors) with zero Python GIL overhead.
