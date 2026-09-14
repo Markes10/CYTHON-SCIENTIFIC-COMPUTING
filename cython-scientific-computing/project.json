@@ -1,0 +1,8 @@
+{
+  "id": "16",
+  "name": "16-cython-scientific-computing",
+  "title": "High-Performance Scientific Computing Engine",
+  "language": "Cython",
+  "domain": "Scientific Computing & Numerical ODE Solvers",
+  "description": "High-performance C-accelerated sparse matrix and 4th-order Runge-Kutta differential equation integration engine with seamless Python interoperability."
+}
